@@ -1,1 +1,56 @@
- 
+<table>
+ <tr>
+  <td></td>
+  <td>Past</td>
+  <td>Present</td>
+  <td>Future</td>
+ </tr>
+ <tr>
+  <td rowspan="3">Simple</td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td rowspan="3">Continuous</td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td rowspan="3">Perfect</td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+</table>
