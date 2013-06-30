@@ -14,7 +14,7 @@
 * often
 * on Mondays, etc.
 
-### Порядок слов
+### Order
 
 #### Often, seldom, always, usually:
 После глагола to be.
@@ -29,7 +29,7 @@
 
 ## Forms
 
-### Утвердительные предложения
+### Positives
     I + V
 > I do
 
@@ -40,7 +40,7 @@
 
 > He tries and buys.
 
-### Вопросы
+### Questions
     Do + I + V?
 > Do you learn English?
 
@@ -50,7 +50,7 @@
     Where + do + I + V?
 > When do you leave?
 
-### Отрицательные предложения
+### Negatives
     I + do not/ don’t + V
 > I don’t work for a company.
 
