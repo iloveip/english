@@ -67,3 +67,12 @@
   <td></td>
  </tr>
 </table>
+
+### Present Simple
+* [Use](/present-simple.md#use)
+ * [Phrases](/present-simple.md#phrases)
+ * [Order](/present-simple.md#order)
+* [Forms](/present-simple.md#forms)
+ * [Positives](/present-simple.md#positives)
+ * [Questions](/present-simple.md#questions)
+ * [Negatives](/present-simple.md#negatives)
