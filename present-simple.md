@@ -35,9 +35,9 @@
 
     He/ she/ it + V-s/-es
     o, ch, sh, x, s, z, tch  → -es
-    y → -ie+s (кроме случаев, когда перед y гласные a, e, i, o, u)
 > He does.
 
+    y → -ie+s (кроме случаев, когда перед y гласные a, e, i, o, u)
 > He tries and buys.
 
 ### Questions
