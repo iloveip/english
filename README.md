@@ -27,7 +27,11 @@
  </tr>
  <tr>
   <td></td>
-  <td></td>
+  <td>
+  I + <b>don't</b> + <b>V</b><br>
+  He/ she/ it + <b>doesn't</b> + <b>V</b>
+  <blockquote>He doesn't eat meat.</blockquote>
+  </td>
   <td></td>
  </tr>
  <tr>
