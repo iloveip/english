@@ -10,16 +10,19 @@
   <td rowspan="3">Simple</td>
   <td></td>
   <td>
-  I + V
-  <blockquote>I do</blockquote>
-  He/ she/ it + V-s/-es
-  <blockquote>He does.</blockquote>
+  I + <b>V</b><br>
+  He/ she/ it + <b>V-s/-es</b>
+  <blockquote>She goes to school.</blockquote>
   </td>
   <td></td>
  </tr>
  <tr>
   <td></td>
-  <td></td>
+  <td>
+  <b>Do</b> + I + <b>V</b>?<br>
+  <b>Does</b> + he/ she/ it + <b>V</b>?
+  <blockquote>When do you leave?</blockquote>
+  </td>
   <td></td>
  </tr>
  <tr>
