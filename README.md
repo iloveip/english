@@ -79,19 +79,34 @@
  <tr>
   <td>Positives</td>
   <td></td>
-  <td></td>
+  <td>
+  I <b>am</b><br>
+  He/ she/ it <b>is</b><br>
+  You/ we/ they <b>are</b><br>
+  <blockquote>My cat and dog are friends.</blockquote>
+  </td>
   <td></td>
  </tr>
  <tr>
   <td>Questions</td>
   <td></td>
-  <td></td>
+  <td>
+  <b>Am</b> I?<br>
+  <b>Is</b> he/ she/ it?<br>
+  <b>Are</b> we/ you/ they?
+  <blockquote>Where is she from?</blockquote>
+  </td>
   <td></td>
  </tr>
  <tr>
   <td>Negatives</td>
   <td></td>
-  <td></td>
+  <td>
+  I'<b>m not</b><br>
+  He'<b>s not</b><br>
+  We'<b>re not</b>
+  <blockquote>I'm not angry.</blockquote>
+  </td>
   <td></td>
  </tr>
 </table>
