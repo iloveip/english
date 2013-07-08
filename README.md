@@ -68,6 +68,34 @@
  </tr>
 </table>
 
+# To be
+<table>
+ <tr>
+  <td width="10%"></td>
+  <td width="30%">Past Simple</td>
+  <td width="30%">Present Simple</td>
+  <td width="30%">Future Simple</td>
+ </tr>
+ <tr>
+  <td>Positives</td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>Questions</td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>Negatives</td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+</table>
+
 ### Present Simple
 * [Use](/present-simple.md#use)
  * [Phrases](/present-simple.md#phrases)
