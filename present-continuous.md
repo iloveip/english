@@ -29,7 +29,7 @@
     V-e → V (без -e) + ing
 > make → making
 
-    Ударение на последний слог → последняя буква удваивается (кроме на -w, -x)
+    Ударение на последний слог → последняя буква удваивается (кроме V на -w, -x)
 > refer → referring
 
 > begin → beginning
@@ -49,12 +49,13 @@ But!
 
 
 ### Questions
-    Did + I + V?
-> 
-
-    Where + did + I + V?
-> 
+    Am I + V-ing?
+    Is he/ she/ it + V-ing?
+    Are we/ you/ they + V-ing
+> Where are we going?
 
 ### Negatives
-    I + did not/ didn’t + V
-> 
+    I'm not + V-ing
+    He/ she/ it isn't + V-ing
+    We/ you/ they aren't + V-ing
+> I am not singing.
