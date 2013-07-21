@@ -67,28 +67,42 @@
   <blockquote>We are working.</blockquote>
   </td>
   <td>
-  I <b>will</b> + be + <b>V-ing</b>
+  I <b>will be</b> + <b>V-ing</b>
   <blockquote>I'll be waiting for you.</blockquote>
   </td>
  </tr>
  <tr>
-  <td></td>
+  <td>
+  <b>Was</b> I/ he/ she/ it + <b>V-ing</b>?<br>
+  <b>Were</b> we/ you/ they + <b>V-ing</b>?
+  <blockquote>Was he listening to the music?</blockquote>  
+  </td>
   <td>
   <b>Am</b> I + <b>V-ing</b>?<br>
   <b>Is</b> he/ she/ it + <b>V-ing</b>?<br>
   <b>Are</b> we/ you/ they + <b>V-ing</b>?
   <blockquote>Where are we going?</blockquote>
   </td>
-  <td></td>
+  <td>
+  <b>Will</b> I + <b>be</b> + <b>V-ing</b>?
+  <blockquote>Will she be leaving?</blockquote>
+  </td>
  </tr>
  <tr>
-  <td></td>
+  <td>
+  I/ he/ she/ it <b>was not/ wasn't</b> + <b>V-ing</b><br>
+  We/ you/ they <b>were not/ weren't</b> + <b>V-ing</b>
+  <blockquote>You weren't listening.</blockquote>
+  </td>
   <td>
   I'<b>m not</b> + <b>V-ing</b><br>
   He/ she/ it'<b>s not</b> + <b>V-ing</b><br>
   We/ you/ they'<b>re not + <b>V-ing</b></b>
   <blockquote>I am not singing.</blockquote></td>
-  <td></td>
+  <td>
+  I <b>will not</b>/ <b>won't</b> + be + <b>V-ing</b>
+  <blockquote>It won't be raining.</blockquote></td>
+  </td>
  </tr>
  <tr>
   <td rowspan="3">Perfect</td>
