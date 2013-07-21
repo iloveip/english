@@ -18,7 +18,10 @@
   He/ she/ it + <b>V-s/-es</b>
   <blockquote>She goes to school.</blockquote>
   </td>
-  <td></td>
+  <td>
+  I <b>will</b>/ I'<b>ll</b> + <b>V</b>
+  <blockquote>I will go home.</blockquote>
+  </td>
  </tr>
  <tr>
   <td>
@@ -30,7 +33,10 @@
   <b>Does</b> + he/ she/ it + <b>V</b>?
   <blockquote>When do you leave?</blockquote>
   </td>
-  <td></td>
+  <td>
+  <b>Will</b> + I + <b>V</b>?
+  <blockquote>Will you marry me?</blockquote>
+  </td>
  </tr>
  <tr>
   <td>
@@ -42,7 +48,10 @@
   He/ she/ it + <b>doesn't</b> + <b>V</b>
   <blockquote>He doesn't eat meat.</blockquote>
   </td>
-  <td></td>
+  <td>
+  I <b>will not</b>/ <b>won't</b> + <b>V</b>
+  <blockquote>I won't buy it.</blockquote>
+  </td>
  </tr>
  <tr>
   <td rowspan="3">Continuous</td>
