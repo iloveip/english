@@ -20,13 +20,27 @@
 
 ### Positives
 
-#### Regular verbs
-    I + V-ed/ -d (если глагол оканчивается на -е)
-> 
+    I am + V-ing
+    He/ she/ it is + V-ing
+    We/ you/ they are + V-ing
+> We are working
 
-#### Irregular verbs
-    I + V2
-> 
+
+    V-e → V (без -e) +ing
+> make → making
+
+    Ударение на последний слог --> последняя буква удваивается (кроме на -w, -x)
+refer -->referring
+begin --> beginning
+run --> running
+But! sew --> sewing, fix --> fixing
+
+Если V-ie --> V-ying
+die --> dying
+
+c --> ck
+panic --> panicking
+
 
 ### Questions
     Did + I + V?
