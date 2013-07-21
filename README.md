@@ -183,6 +183,13 @@
  * [Questions](/future-simple.md#questions)
  * [Negatives](/future-simple.md#negatives)
 
+### [Past Continuous](/past-continuous.md)
+* [Use](/past-continuous.md#use)
+* [Forms](/past-continuous.md#forms)
+ * [Positives](/past-continuous.md#positives)
+ * [Questions](/past-continuous.md#questions)
+ * [Negatives](/past-continuous.md#negatives)
+
 ### [Present Continuous](/present-continuous.md)
 * [Use](/present-continuous.md#use)
  * [Phrases](/present-continuous.md#phrases)
@@ -192,3 +199,10 @@
  * [Positives](/present-continuous.md#positives)
  * [Questions](/present-continuous.md#questions)
  * [Negatives](/present-continuous.md#negatives)
+
+### [Future Continuous](/future-continuous.md)
+* [Use](/future-continuous.md#use)
+* [Forms](/future-continuous.md#forms)
+ * [Positives](/future-continuous.md#positives)
+ * [Questions](/future-continuous.md#questions)
+ * [Negatives](/future-continuous.md#negatives)
