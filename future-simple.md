@@ -21,6 +21,10 @@
 
 > **Tomorrow** I'll be at home.
 
+## Be going to
+* О будущих планах, решениях или намерениях (e. g. *We are going to buy a new house soon*)
+* О решении, которое было принято до того, как о нём сообщается (e. g. *I'm going to Spain in a few days*)
+* О действиях, в которых вы уверены, что они произойдут (e. g. *It is going to rain soon*, *I'm going to sneeze*)
 
 ## Forms
 
