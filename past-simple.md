@@ -19,7 +19,7 @@
 ### Positives
 
 #### Regular verbs
-    I + -ed/ -d (если глагол оканчивается на -е)
+    I + V-ed/ -d (если глагол оканчивается на -е)
 > I played with my dog.  
 I lived in Moscow.
 
