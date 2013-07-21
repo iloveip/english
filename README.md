@@ -90,8 +90,8 @@
  </tr>
  <tr>
   <td>
-  I/ he/ she/ it <b>was not/ wasn't</b> + <b>V-ing</b><br>
-  We/ you/ they <b>were not/ weren't</b> + <b>V-ing</b>
+  I/ he/ she/ it <b>wasn't</b> + <b>V-ing</b><br>
+  We/ you/ they <b>weren't</b> + <b>V-ing</b>
   <blockquote>You weren't listening.</blockquote>
   </td>
   <td>
@@ -100,7 +100,7 @@
   We/ you/ they'<b>re not + <b>V-ing</b></b>
   <blockquote>I am not singing.</blockquote></td>
   <td>
-  I <b>will not</b>/ <b>won't</b> + be + <b>V-ing</b>
+  I <b>will not</b>/ <b>won't be</b> + <b>V-ing</b>
   <blockquote>It won't be raining.</blockquote></td>
   </td>
  </tr>
