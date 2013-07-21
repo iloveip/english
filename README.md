@@ -66,12 +66,21 @@
  </tr>
  <tr>
   <td></td>
-  <td></td>
+  <td>
+  <b>Am</b> I + <b>V-ing</b>?<br>
+  <b>Is</b> he/ she/ it + <b>V-ing</b>?<br>
+  <b>Are</b> we/ you/ they + <b>V-ing</b>?
+  <blockquote>Where are we going?</blockquote>
+  </td>
   <td></td>
  </tr>
  <tr>
   <td></td>
-  <td></td>
+  <td>
+  I'<b>m not</b> + <b>V-ing</b><br>
+  He/ she/ it'<b>s not</b> + <b>V-ing</b><br>
+  We/ you/ they'<b>re not + <b>V-ing</b></b>
+  <blockquote>I am not singing.</blockquote></td>
   <td></td>
  </tr>
  <tr>
