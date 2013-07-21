@@ -120,6 +120,22 @@
   <td></td>
   <td></td>
  </tr>
+ <tr>
+  <td rowspan="3">Perfect Continuous</td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
 </table>
 
 # To be
