@@ -1,7 +1,7 @@
 # Present Continuous 
 
 ## Use
-* О действии, которое происходит в данный момент e. g. *I'm reading a book now*)
+* О действии, которое происходит в данный момент (e. g. *I'm reading a book now*)
 * О действии, которое развивается в настоящее время (e. g. *The climate is getting warmer*)
 * Для обозначения будущих планов (e. g. *She is playing tennis on Sunday morning*)
 * Для выражения раздражения или недовольства с фразами always, constantly (e. g. *You are __always__ coming late!*)
