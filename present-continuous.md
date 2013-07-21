@@ -12,6 +12,54 @@
 * At the moment
 * Nowadays
 
+### Non-continuous verbs
+* be
+* have
+* feel
+* own
+* like
+* dislike
+* know
+* love
+* hate
+* want
+* appear
+* wish
+* smell
+* sound
+* taste
+* believe
+* belong
+* need
+
+> I own this car.
+
+But!
+
+    feel = трогать, чувствовать пальцами, чувствовать себя (о здоровье)
+> I am *feeling* very tired today.
+
+    have = проводить время
+> I am *having* a great time.
+
+    see = встречаться
+> I am *seeing* Jack on Monday.
+
+    think = обдумывать
+> I am *thinking* hard about the trip.
+
+    taste = пробовать
+> I am *tasting* a new salad.
+
+    look = смотреть
+> That guy is *looking* at you.
+
+    smell = чувствовать запах, нюхать
+> I am *smelling* the rose.
+
+    being = для обозначения временного действия
+> You are being so rude today.
+
 ### Order
 В начале или в конце предложения
 > **At the moment** I am waiting for you.
