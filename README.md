@@ -56,7 +56,12 @@
  <tr>
   <td rowspan="3">Continuous</td>
   <td></td>
-  <td></td>
+  <td>
+  I <b>am</b> + <b>V-ing</b><br>
+  He/ she/ it <b>is</b> + <b>V-ing</b><br>
+  You/ we/ they <b>are</b> + <b>V-ing</b><br>
+  <blockquote>We are working.</blockquote>
+  </td>
   <td></td>
  </tr>
  <tr>
