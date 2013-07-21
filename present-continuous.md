@@ -29,11 +29,17 @@
     V-e → V (без -e) +ing
 > make → making
 
-    Ударение на последний слог --> последняя буква удваивается (кроме на -w, -x)
-refer -->referring
-begin --> beginning
-run --> running
-But! sew --> sewing, fix --> fixing
+    Ударение на последний слог → последняя буква удваивается (кроме на -w, -x)
+> refer → referring
+
+> begin → beginning
+
+> run → running
+
+But!
+> sew → sewing
+
+> fix → fixing
 
 Если V-ie --> V-ying
 die --> dying
