@@ -1,50 +1,45 @@
 # Future Simple
 
 ## Use
-* 
+* Факты и утверждения о будущем (e. g. *It will be summer soon*)
+* О спонтанных решениях (в момент разговора) (e. g. *I wll have some coffee and my friend will have some tea, please*)
+* Предсказания и прогнозы о том, что может произойти (с фразами I think, I believe, I am sure, Perhaps; e. g. *I think it will be sunny tomorrow*)
+* Для выражения стремлений, желаний, обещаний, предложений, угроз, просьб (e. g. *I promise I will help you to fix your car*)
+
 
 ### Phrases
-* 
+* Next week/ year/ etc.
+* Tomorrow
+* Tonight
+* In two minutes, in a year
+* Soon
 
 ### Order
 
-#### Often, seldom, always, usually:
-После глагола to be.
-> I am **always** right.
+#### В начале или в конце предложения
+> I will see you **tomorrow**.
 
-В остальных случаях перед глаголом.
-> My sister **always** gets up at 7:45.
+> **Tomorrow** I'll be at home.
 
-#### Every day, on Mondays, twice a week:
-В начале или в конце предложения (чаще в конце).
-> I go to school **every day**.
 
 ## Forms
 
 ### Positives
-    I + V
-> I do
-
-    He/ she/ it + V-s/-es
-    o, ch, sh, x, s, z, tch  → -es
-> He does.
-
-    y → -ie+s (кроме случаев, когда перед y гласные a, e, i, o, u)
-> He tries and buys.
+    I will/ I'll + V
+> I will go home.
 
 ### Questions
-    Do + I + V?
-> Do you learn English?
+    Will + I + V?
+> Will you marry me?
 
-    Does + he/ she/ it + V?
-> Does he go to school?
+    When + will + I + V?
+> When will she be there?
 
-    Where + do + I + V?
-> When do you leave?
+    Shall + I/ we + V? → вежливая просьба, разрешение
+> Shall I open the window?
+
+> What shall we do?
 
 ### Negatives
-    I + do not/ don’t + V
-> I don’t work for a company.
-
-    He/ she/ it + does not/ doesn’t + V
-> He doesn’t eat meat.
+    I + will not/ won’t + V
+> I won't buy tickets for you
