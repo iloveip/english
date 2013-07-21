@@ -13,7 +13,7 @@
 
     I/ he/ she/ it was + V-ing
     We/ you/ they were + V-ing
-> We were talking
+> We were talking.
 
 ### Questions
     Was I/ he/ she/ it + V-ing?
