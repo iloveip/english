@@ -26,7 +26,7 @@
 > We are working
 
 
-    V-e → V (без -e) +ing
+    V-e → V (без -e) + ing
 > make → making
 
     Ударение на последний слог → последняя буква удваивается (кроме на -w, -x)
@@ -41,11 +41,11 @@ But!
 
 > fix → fixing
 
-Если V-ie --> V-ying
-die --> dying
+    V-ie → V-y + ing
+> lie → lying
 
-c --> ck
-panic --> panicking
+    V-c → V-ck + ing
+> panic → panicking
 
 
 ### Questions
