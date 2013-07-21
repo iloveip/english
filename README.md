@@ -75,7 +75,7 @@
   <td>
   <b>Was</b> I/ he/ she/ it + <b>V-ing</b>?<br>
   <b>Were</b> we/ you/ they + <b>V-ing</b>?
-  <blockquote>Was he listening to the music?</blockquote>  
+  <blockquote>Was he listening?</blockquote>  
   </td>
   <td>
   <b>Am</b> I + <b>V-ing</b>?<br>
@@ -100,7 +100,7 @@
   We/ you/ they'<b>re not + <b>V-ing</b></b>
   <blockquote>I am not singing.</blockquote></td>
   <td>
-  I <b>will not</b>/ <b>won't be</b> + <b>V-ing</b>
+  I <b>will not</b>/ <b>won't</b> be + <b>V-ing</b>
   <blockquote>It won't be raining.</blockquote></td>
   </td>
  </tr>
