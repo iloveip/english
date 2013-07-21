@@ -37,28 +37,28 @@
 But!
 
     feel = трогать, чувствовать пальцами, чувствовать себя (о здоровье)
-> I am *feeling* very tired today.
+> I am **feeling** very tired today.
 
     have = проводить время
-> I am *having* a great time.
+> I am **having** a great time.
 
     see = встречаться
-> I am *seeing* Jack on Monday.
+> I am **seeing** Jack on Monday.
 
     think = обдумывать
-> I am *thinking* hard about the trip.
+> I am **thinking** hard about the trip.
 
     taste = пробовать
-> I am *tasting* a new salad.
+> I am **tasting** a new salad.
 
     look = смотреть
-> That guy is *looking* at you.
+> That guy is **looking** at you.
 
     smell = чувствовать запах, нюхать
-> I am *smelling* the rose.
+> I am **smelling** the rose.
 
     being = для обозначения временного действия
-> You are being so rude today.
+> You are **being** so rude today.
 
 ### Order
 В начале или в конце предложения
