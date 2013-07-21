@@ -158,3 +158,13 @@
  * [Positives](/present-simple.md#positives)
  * [Questions](/present-simple.md#questions)
  * [Negatives](/present-simple.md#negatives)
+
+### [Future Simple](/future-simple.md)
+* [Use](/future-simple.md#use)
+ * [Phrases](/future-simple.md#phrases)
+ * [Order](/future-simple.md#order)
+* [Be going to](future-simple.md#be-going-to)
+* [Forms](/future-simple.md#forms)
+ * [Positives](/future-simple.md#positives)
+ * [Questions](/future-simple.md#questions)
+ * [Negatives](/future-simple.md#negatives)
