@@ -110,7 +110,11 @@
     I <b>had</b> + <b>V-ed/ V3</b>
     <blockquote>I had studied English before I moved to Moscow.</blockquote>
   </td>
-  <td></td>
+  <td>
+    I/ we/ you/ they <b>have</b> + <b>V-ed/ V3</b><br>
+    He/ she/ it <b>has</b> + <b>V-ed/ V3</b>
+    <blockquote>I have had this car since 2001.</blockquote>
+  </td>
   <td></td>
  </tr>
  <tr>
@@ -118,7 +122,11 @@
     <b>Had</b> I + <b>V-ed/ V3</b>?
     <blockquote>Had she made a lot of friends before she left England?</blockquote>
   </td>
-  <td></td>
+  <td>
+    <b>Have</b> I/ we/ you/ they + <b>V-ed/ V3</b>?<br>
+    <b>Has</b> he/ she/ it + <b>V-ed/ V3</b>?
+    <blockquote>Have you been to London?</blockquote>
+  </td>
   <td></td>
  </tr>
  <tr>
@@ -126,7 +134,11 @@
     I <b>hadn't</b> + <b>V-ed/ V3</b>
     <blockquote>I hadn't been to Asia before I came to Thailand.</blockquote>
   </td>
-  <td></td>
+  <td>
+    I/ we/ you/ they <b>haven't</b> + <b>V-ed/ V3</b>
+    He/ she/ it <b>hasn't</b> + <b>V-ed/ V3</b><br>
+    <blockquote>She hasn't seen Tom today.</blockquote>
+  </td>
   <td></td>
  </tr>
  <tr>
