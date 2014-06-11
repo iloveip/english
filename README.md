@@ -135,8 +135,8 @@
     <blockquote>I hadn't been to Asia before I came to Thailand.</blockquote>
   </td>
   <td>
-    I/ we/ you/ they <b>haven't</b> + <b>V-ed/ V3</b>
-    He/ she/ it <b>hasn't</b> + <b>V-ed/ V3</b><br>
+    I/ we/ you/ they <b>haven't</b> + <b>V-ed/ V3</b><br>
+    He/ she/ it <b>hasn't</b> + <b>V-ed/ V3</b>
     <blockquote>She hasn't seen Tom today.</blockquote>
   </td>
   <td></td>
