@@ -252,3 +252,10 @@
  * [Positives](/future-continuous.md#positives)
  * [Questions](/future-continuous.md#questions)
  * [Negatives](/future-continuous.md#negatives)
+
+### [Past Perfect](/past-perfect.md)
+* [Use](/past-perfect.md#use)
+* [Forms](/past-perfect.md#forms)
+ * [Positives](/past-perfect.md#positives)
+ * [Questions](/past-perfect.md#questions)
+ * [Negatives](/past-perfect.md#negatives)
