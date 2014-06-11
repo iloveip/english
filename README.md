@@ -123,7 +123,7 @@
  </tr>
  <tr>
   <td>
-    I <b>hadn't<b> + <b>V-ed/ V3<b>
+    I <b>hadn't</b> + <b>V-ed/ V3</b>
     <blockquote>I hadn't been to Asia before I came to Thailand.</blockquote>
   </td>
   <td></td>
