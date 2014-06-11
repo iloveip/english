@@ -35,10 +35,8 @@
 
 Перед смысловым глаголом
 
-> I have *already* done my homework.
->
-> I have *never* been to Ireland.
->
+> I have *already* done my homework.  
+> I have *never* been to Ireland.  
 > This is the tastiest cheese I've *ever* tried.
  
 have never = haven't ever
@@ -70,14 +68,12 @@ have never = haven't ever
 > Have you been to London?
 
     Where + have + I + V-ed/ V3?
-> When have you been to London?
->
+> When have you been to London?  
 > What has happened?
 
 ### Negatives
     I/ we/ you/ they haven't + V-ed/ V3
     He/ she/ it hasn't + V-ed/ V3
-> She hasn't seen Tom today.
->
+> She hasn't seen Tom today.  
 > I have never been to Australia.
 
