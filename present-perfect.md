@@ -29,7 +29,7 @@
 
 В конце предложения
 > Have you been to Europe?
->
+
 > No, I have not been there *yet*.
 
 #### Already, never, ever
