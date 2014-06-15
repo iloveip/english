@@ -7,7 +7,7 @@
 ### Phrases
 * By ... for (e. g. ***By** the end of this year, we will have been running our own company **for** five years*)
 
-followed by Present Simple
+Followed by Present Simple
 
 * By the time
 * Before
