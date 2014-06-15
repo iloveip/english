@@ -154,7 +154,7 @@
   <td rowspan="3">Perfect Continuous</td>
   <td>
     I + <b>had been</b> + <b>V-ing</b>
-    <blockquote>I had been working for two hours when it started raining.</blockquote>
+    <blockquote>I had been working for 2 hours when it started raining.</blockquote>
   </td>
   <td></td>
   <td></td>
@@ -169,7 +169,7 @@
  </tr>
  <tr>
   <td>
-    I <b>had not/ hadn't been</b> + <b>doing</b>
+    I <b>had not/ hadn't been</b> + <b>V-ing</b>
     <blockquote>They hadn't been working for a month.</blockquote>
   </td>
   <td></td>
