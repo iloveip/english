@@ -5,7 +5,7 @@
 
 
 ### Phrases
-* By ... for (e. g. ***By** the end of this year, we will have been running our own company **for** five years*)
+* By ... for (e. g. *__By__ the end of this year, we will have been running our own company __for__ five years*)
 
 Followed by Present Simple
 
