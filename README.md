@@ -154,7 +154,7 @@
   <td rowspan="3">Perfect Continuous</td>
   <td>
     I + <b>had been</b> + <b>V-ing</b>
-    <blockquote>I had been working for 2 hours when it started raining.</blockquote>
+    <blockquote>I had been working for two hours when it started raining.</blockquote>
   </td>
   <td></td>
   <td></td>
@@ -306,3 +306,10 @@
  * [Questions](/future-perfect.md#questions)
  * [Negatives](/future-perfect.md#negatives)
 
+### [Past Perfect Continuous](/past-perfect-continuous.md)
+* [Use](/past-perfect-continuous.md#use)
+ * [Phrases](/past-perfect-continuous.md#phrases)
+* [Forms](/past-perfect-continuous.md#forms)
+ * [Positives](/past-perfect-continuous.md#positives)
+ * [Questions](/past-perfect-continuous.md#questions)
+ * [Negatives](/past-perfect-continuous.md#negatives)
