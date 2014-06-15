@@ -161,7 +161,10 @@
     He/ she/ it <b>has been</b> + <b>V-ing</b>
     <blockquote>We have been staying near sea all this week.</blockquote>
   </td>
-  <td></td>
+  <td>
+    I <b>will have been</b> + <b>V-ing</b>
+    <blockquote>By the time you come they will have been playing for more than two hours.</blockquote>
+  </td>
  </tr>
  <tr>
   <td>
@@ -173,7 +176,10 @@
     <b>Has</b> he/ she/ it <b>been</b> + <b>V-ing</b>?
     <blockquote>Has he been working?</blockquote>
   </td>
-  <td></td>
+  <td>
+    <b>Will</b> I <b>have been</b> + <b>V-ing</b>?
+    <blockquote>How long will you have been studying when you graduate?</blockquote>
+  </td>
  </tr>
  <tr>
   <td>
@@ -185,7 +191,10 @@
     He/ she/ it <b>hasn't been</b> + <b>V-ing</b>
     <blockquote>They haven't been visiting us since May.</blockquote>
   </td>
-  <td></td>
+  <td>
+    I <b>will not/ won't have been</b> + <b>V-ing</b>
+    <blockquote>You won't have been working on Sunday.</blockquote>
+  </td>
  </tr>
 </table>
 
@@ -334,3 +343,10 @@
  * [Questions](/present-perfect-continuous.md#questions)
  * [Negatives](/present-perfect-continuous.md#negatives)
 
+### [Future Perfect Continuous](/future-perfect-continuous.md)
+* [Use](/future-perfect-continuous.md#use)
+ * [Phrases](/future-perfect-continuous.md#phrases)
+* [Forms](/future-perfect-continuous.md#forms)
+ * [Positives](/future-perfect-continuous.md#positives)
+ * [Questions](/future-perfect-continuous.md#questions)
+ * [Negatives](/future-perfect-continuous.md#negatives)
