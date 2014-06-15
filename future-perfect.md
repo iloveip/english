@@ -1,8 +1,7 @@
-# 
+# Future Perfect
 
 ## Use
-* О (с фразами )
-* О (e. g. **)
+* Когда какое-либо действие будет завершено к определённому моменту времени, с фразами by Saturday, by that time, by the end of the year, by then (e. g. *The bus will have left by the time we get to the station*)
 
 
 ### Phrases
@@ -12,21 +11,16 @@
 
 ### Positives
 
-#### Regular verbs
-    I + V-ed/ -d (если глагол оканчивается на -е)
-> 
-
-#### Irregular verbs
-    I + V2
-> 
+    I will have + V-ed/ V3
+> I will have called him back by 6 o'clock.
 
 ### Questions
-    Did + I + V?
-> 
+    Will I have + V-ed/ V3?
+> Will he have gone by then?
 
-    Where + did + I + V?
-> 
+    Where will I have + V-ed/ V3?
+> Where will he have gone by then?
 
 ### Negatives
-    I + did not/ didn’t + V
-> 
+    I will not/ won't have + V-ed/ V3
+> He will not have finished his work before you return.
