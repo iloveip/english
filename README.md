@@ -115,7 +115,10 @@
     He/ she/ it <b>has</b> + <b>V-ed/ V3</b>
     <blockquote>I have had this car since 2001.</blockquote>
   </td>
-  <td></td>
+  <td>
+    I <b>will have</b> + <b>V-ed/ V3</b>
+    <blockquote>I will have called him back by 6 o'clock.</blockquote>
+  </td>
  </tr>
  <tr>
   <td>
@@ -127,7 +130,10 @@
     <b>Has</b> he/ she/ it + <b>V-ed/ V3</b>?
     <blockquote>Have you been to London?</blockquote>
   </td>
-  <td></td>
+  <td>
+    <b>Will</b> I <b>have</b> + <b>V-ed/ V3</b>?
+    <blockquote>Will he have gone by then?</blockquote>
+  </td>
  </tr>
  <tr>
   <td>
@@ -139,7 +145,10 @@
     He/ she/ it <b>hasn't</b> + <b>V-ed/ V3</b>
     <blockquote>She hasn't seen Tom today.</blockquote>
   </td>
-  <td></td>
+  <td>
+    I <b>will not</b>/ <b>won't have</b> + <b>V-ed/ V3</b>
+    <blockquote>He will not have finished this work before you return.</blockquote>
+  </td>
  </tr>
  <tr>
   <td rowspan="3">Perfect Continuous</td>
