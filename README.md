@@ -152,17 +152,26 @@
  </tr>
  <tr>
   <td rowspan="3">Perfect Continuous</td>
-  <td></td>
+  <td>
+    I + <b>had been</b> + <b>V-ing</b>
+    <blockquote>I had been working for two hours when it started raining.</blockquote>
+  </td>
   <td></td>
   <td></td>
  </tr>
  <tr>
-  <td></td>
+  <td>
+    <b>Had</b> I <b>been</b> + <b>V-ing</b>?
+    <blockquote>Had he been working when his sister came?</blockquote>
+  </td>
   <td></td>
   <td></td>
  </tr>
  <tr>
-  <td></td>
+  <td>
+    I <b>had not/ hadn't been</b> + <b>doing</b>
+    <blockquote>They hadn't been working for a month.</blockquote>
+  </td>
   <td></td>
   <td></td>
  </tr>
