@@ -3,10 +3,6 @@
 ## Use
 * Когда какое-либо действие будет завершено к определённому моменту времени, с фразами by Saturday, by that time, by the end of the year, by then (e. g. *The bus will have left by the time we get to the station*)
 
-
-### Phrases
-* 
-
 ## Forms
 
 ### Positives
