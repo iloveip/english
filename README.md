@@ -156,7 +156,11 @@
     I + <b>had been</b> + <b>V-ing</b>
     <blockquote>I had been working for two hours when it started raining.</blockquote>
   </td>
-  <td></td>
+  <td>
+    I/ we/ you/ they <b>have been</b> + <b>V-ing</b><br>
+    He/ she/ it <b>has been</b> + <b>V-ing</b>
+    <blockquote>We have been staying near sea all this week.</blockquote>
+  </td>
   <td></td>
  </tr>
  <tr>
@@ -164,7 +168,11 @@
     <b>Had</b> I <b>been</b> + <b>V-ing</b>?
     <blockquote>Had he been working when his sister came?</blockquote>
   </td>
-  <td></td>
+  <td>
+    <b>Have</b> I/ we/ you/ they <b>been</b> + <b>V-ing</b>?<br>
+    <b>Has</b> he/ she/ it <b>been</b> + <b>V-ing</b>?
+    <blockquote>Has he been working?</blockquote>
+  </td>
   <td></td>
  </tr>
  <tr>
@@ -172,7 +180,11 @@
     I <b>had not/ hadn't been</b> + <b>V-ing</b>
     <blockquote>They hadn't been working for a month.</blockquote>
   </td>
-  <td></td>
+  <td>
+    I/ we/ you/ they <b>haven't been</b> + <b>V-ing</b><br>
+    He/ she/ it <b>hasn't been</b> + <b>V-ing</b>
+    <blockquote>They haven't been visiting us since May.</blockquote>
+  </td>
   <td></td>
  </tr>
 </table>
@@ -313,3 +325,12 @@
  * [Positives](/past-perfect-continuous.md#positives)
  * [Questions](/past-perfect-continuous.md#questions)
  * [Negatives](/past-perfect-continuous.md#negatives)
+
+### [Present Perfect Continuous](/present-perfect-continuous.md)
+* [Use](/present-perfect-continuous.md#use)
+ * [Phrases](/present-perfect-continuous.md#phrases)
+* [Forms](/present-perfect-continuous.md#forms)
+ * [Positives](/present-perfect-continuous.md#positives)
+ * [Questions](/present-perfect-continuous.md#questions)
+ * [Negatives](/present-perfect-continuous.md#negatives)
+
